@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Main Site -->
+  <url>
+    <loc>https://whoisvelin.com</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Blog Homepage -->
+  <url>
+    <loc>https://blog.whoisvelin.com</loc>
+    <priority>0.9</priority>
+  </url>
+
+<!-- Label Search Pages -->
+  <url>
+    <loc>https://blog.whoisvelin.com/search/label/Channel-Noise</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog.whoisvelin.com/search/label/Velin-Views</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog.whoisvelin.com/search/label/Signals</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://blog.whoisvelin.com/search/label/Intelligence</loc>
+    <priority>0.7</priority>
+  </url>  
+
+  <!-- GitHub Mirror Post -->
+  <url>
+    <loc>https://mirror.whoisvelin.com/posts/the-alpine-drift.html</loc>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Selected Blog Post (External Link) -->
+  <url>
+  <loc>https://blog.whoisvelin.com/2025/06/when-a-door-has-no-handle.html</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://blog.whoisvelin.com/2025/06/fog-over-tbilisi.html</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://blog.whoisvelin.com/2025/06/missing-packet-between-brussels-and-bern.html</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://blog.whoisvelin.com/2025/06/blog-post.html</loc>
+  <priority>0.6</priority>
+</url>
+<url>
+  <loc>https://blog.whoisvelin.com/2025/06/espionage-news-op-wedlock.html</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://blog.whoisvelin.com/2025/06/database-is-becoming-you.html</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://blog.whoisvelin.com/2025/06/russia-sea-access-north-korea.html</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://blog.whoisvelin.com/2025/06/the-world-never-runs-out-of-maps.html</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://blog.whoisvelin.com/2025/06/the-signal-wasnt-ours.html</loc>
+  <priority>0.8</priority>
+</url>
+
+</urlset>
