@@ -38,6 +38,32 @@
   </url>
 
   <!-- Selected Blog Post (External Link) -->
+
+  <url>
+  <loc>https://blog.whoisvelin.com/2025/06/the-signal-wasnt-ours.html</loc>
+  <priority>0.6</priority>
+</url>
+
+  <url>
+  <loc>https://blog.whoisvelin.com/2025/06/database-is-becoming-you.html</loc>
+  <priority>0.6</priority>
+</url>
+  
+  <url>
+  <loc>https://blog.whoisvelin.com/2025/06/when-a-door-has-no-handle.html</loc>
+  <priority>0.6</priority>
+</url>
+  
+<url>
+  <loc>https://blog.whoisvelin.com/2025/06/the-world-never-runs-out-of-maps.html</loc>
+  <priority>0.6</priority>
+</url>
+  
+  <url>
+  <loc>https://blog.whoisvelin.com/2025/06/nothing-official-to-confirm.html</loc>
+  <priority>0.6</priority>
+</url>
+  
   <url>
   <loc>https://blog.whoisvelin.com/2025/06/when-a-door-has-no-handle.html</loc>
   <priority>0.8</priority>
