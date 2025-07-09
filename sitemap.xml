@@ -38,7 +38,24 @@
   </url>
 
   <!-- Selected Blog Post (External Link) -->
-
+<url>
+  <loc>https://blog.whoisvelin.com/2025/06/missing-packet-between-brussels-and-bern.html</loc>
+  <priority>0.6</priority>
+</url>
+  <url>
+  <loc>https://blog.whoisvelin.com/2025/06/russia-sea-access-north-korea.html</loc>
+  <priority>0.6</priority>
+</url>
+  <url>
+  <loc>https://blog.whoisvelin.com/2025/06/espionage-news-op-wedlock.html</loc>
+  <priority>0.6</priority>
+</url>
+  
+<url>
+  <loc>https://blog.whoisvelin.com/2025/06/the-siberian-gambit.html</loc>
+  <priority>0.6</priority>
+</url>
+  
   <url>
   <loc>https://blog.whoisvelin.com/2025/06/the-signal-wasnt-ours.html</loc>
   <priority>0.6</priority>
