@@ -39,6 +39,10 @@
 
   <!-- Selected Blog Post (External Link) -->
   <url>
+  <loc>https://blog.whoisvelin.com/2025/07/gmail-users-tricked-by-ai-generated.html</loc>
+  <priority>0.6</priority>
+</url>
+  <url>
   <loc>https://blog.whoisvelin.com/2025/07/alliance-never-asked-join.html</loc>
   <priority>0.6</priority>
 </url>
